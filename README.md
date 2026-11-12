@@ -24,7 +24,7 @@ If you’ve come across this repo by chance and it’s sparked your interest, do
 
 ---
 
-## 🗺️ The Interview Journey
+## 🗺️ The Interview Journey You Can Expect
 
 ### 🔍 Screening: Recruiter Discovery Call (30 mins)
 * **What is evaluated:** Role alignment, motivation, core experience overview, and practical logistics.
